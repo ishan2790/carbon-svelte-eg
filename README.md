@@ -1,2 +1,6 @@
 # carbon-svelte-eg
-example of sveltekit carbon app
+Example of sveltekit carbon app
+
+npm intall
+
+npm run dev
